@@ -231,38 +231,12 @@
       }
     },
     {
-      "ename": "Ashutosh",
-      "username": "AShutosh",
+      "name": "Ashutosh",
+      "username": "ash",
       "email": "ashutoshsahu507@gmail.com",
       "phone": "6370818133",
       "website": "ass.com",
-      "name": "s",
       "id": 11
-    },
-    {
-      "ename": "Ashutosh",
-      "username": "ash",
-      "email": "ashutoshsahu507@gmail.com",
-      "phone": "6370818133",
-      "website": "ass.com",
-      "id": 12,
-      "name": "kumar"
-    },
-    {
-      "name": "Ashutosh",
-      "username": "ash",
-      "email": "ashutoshsahu507@gmail.com",
-      "phone": "6370818133",
-      "website": "ass.com",
-      "id": 13
-    },
-    {
-      "name": "Ashutosh",
-      "username": "AShutosh",
-      "email": "ashutoshsahu507@gmail.com",
-      "phone": "6370818133",
-      "website": "ass.com",
-      "id": 14
     }
   ]
 }
